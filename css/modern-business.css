@@ -27,3 +27,33 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+/* Color Pallet */
+.bg-chrono {
+  background-color: #39b54a;
+}
+.bg-chrono-dark {
+  background-color: #248232; 
+}
+.bg-chrono-light-blue {
+  background-color: #69ebd0;
+}
+.bg-chrono-grey {
+  background-color: #2d3a3a;
+}
+.bg-chrono-black {
+  background-color: #040f0f;
+}
+
+/* Buttons */
+/*
+.btn-primary {
+  color: #fff;
+  background-color: #69ebd0;
+  border-color: #69ebd0;
+}
+.btn-primary:hover {
+  background-color: #69ebd0;
+  border-color: #69ebd0;
+}
+*/
